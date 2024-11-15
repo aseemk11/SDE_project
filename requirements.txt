@@ -1,0 +1,10 @@
+
+#### **5. `requirements.txt`**
+pandas
+scikit-learn
+shap
+lime
+joblib
+matplotlib
+tensorflow 
+flask
